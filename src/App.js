@@ -9,7 +9,11 @@ function App() {
         <footer>
           <p>
             This project was coded by Katrin Kanape and is {""}
-            <a href="https://github.com/katrinkan/react-weather-app">
+            <a
+              href="https://github.com/katrinkan/react-weather-app"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
               open-sourced on Github
             </a>
           </p>
